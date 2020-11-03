@@ -1,0 +1,22 @@
+{
+  "name": "serverless-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinwilco/serverless-nodejs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinwilco/serverless-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/tinwilco/serverless-nodejs-api#readme",
+  "devDependencies": {
+    "serverless-mocha-plugin": "^1.12.0"
+  }
+}
